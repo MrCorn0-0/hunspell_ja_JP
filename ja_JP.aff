@@ -2,6 +2,136 @@ SET UTF-8
 LANG ja
 FLAG long
 
+#拼写变体
+MAP	104
+MAP	あア
+MAP	かカ
+MAP	さサ
+MAP	たタ
+MAP	なナ
+MAP	はハ
+MAP	まマ
+MAP	やヤ
+MAP	らラ
+MAP	わワ
+MAP	んン
+MAP	いイ
+MAP	きキ
+MAP	しシ
+MAP	ちチ
+MAP	にニ
+MAP	ひヒ
+MAP	みミ
+MAP	りリ
+MAP	うウ
+MAP	くク
+MAP	すス
+MAP	つツ
+MAP	ぬヌ
+MAP	ふフ
+MAP	むム
+MAP	ゆユ
+MAP	るル
+MAP	えエ
+MAP	けケ
+MAP	せセ
+MAP	てテ
+MAP	ねネ
+MAP	へヘ
+MAP	めメ
+MAP	れレ
+MAP	おオ
+MAP	こコ
+MAP	そソ
+MAP	とト
+MAP	のノ
+MAP	ほホ
+MAP	もモ
+MAP	よヨ
+MAP	ろロ
+MAP	をヲ
+MAP	がガ
+MAP	ざザ
+MAP	だダ
+MAP	ばバ
+MAP	ぱパ
+MAP	ぎギ
+MAP	じジ
+MAP	ぢヂ
+MAP	びビ
+MAP	ぴピ
+MAP	ぐグ
+MAP	ずズ
+MAP	づヅ
+MAP	ぶブ
+MAP	ぷプ
+MAP	げゲ
+MAP	ぜゼ
+MAP	でデ
+MAP	べベ
+MAP	ぺペ
+MAP	ごゴ
+MAP	ぞゾ
+MAP	どド
+MAP	ぼボ
+MAP	ぽポ
+MAP	(きゃ)(キャ)
+MAP	(ぎゃ)(ギャ)
+MAP	(しゃ)(シャ)
+MAP	(じゃ)(ジャ)
+MAP	(ちゃ)(チャ)
+MAP	(にゃ)(ニャ)
+MAP	(ひゃ)(ヒャ)
+MAP	(びゃ)(ビャ)
+MAP	(ぴゃ)(ピャ)
+MAP	(みゃ)(ミャ)
+MAP	(りゃ)(リャ)
+MAP	(きゅ)(キュ)
+MAP	(ぎゅ)(ギュ)
+MAP	(しゅ)(シュ)
+MAP	(じゅ)(ジュ)
+MAP	(ちゅ)(チュ)
+MAP	(にゅ)(ニュ)
+MAP	(ひゅ)(ヒュ)
+MAP	(びゅ)(ビュ)
+MAP	(ぴゅ)(ピュ)
+MAP	(みゅ)(ミュ)
+MAP	(りゅ)(リュ)
+MAP	(きょ)(キョ)
+MAP	(ぎょ)(ギョ)
+MAP	(しょ)(ショ)
+MAP	(じょ)(ジョ)
+MAP	(ちょ)(チョ)
+MAP	(にょ)(ニョ)
+MAP	(ひょ)(ヒョ)
+MAP	(びょ)(ビョ)
+MAP	(ぴょ)(ピョ)
+MAP	(みょ)(ミョ)
+MAP	(りょ)(リョ)
+
+REP 8
+REP かけ  掛け かけ
+REP かか  掛か かか
+REP がけ  掛け がけ
+REP がか  掛か がか
+REP あが 上が あが
+REP あげ 上げ あげ
+REP つ 付 つ
+REP づ 付 づ
+#REP つけ 付け つけ
+#REP づけ 付け づけ
+
+#REP かける  掛ける かける$
+#REP かかる  掛かる かかる$
+#REP がける  掛ける がける$
+#REP がかる  掛かる がかる$
+#REP あがる 上がる あがる$
+#REP あげる 上げる あげる$
+#REP つく 付く つく$
+#REP づく 付く づく$
+#REP つける 付ける つける$
+#REP づける 付ける づける$
+
 #五段未然形
 SFX	5A	Y	10		
 SFX	5A	く	か/f1f2f3f4f5f6	く	
