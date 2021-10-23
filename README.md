@@ -5,4 +5,5 @@ Updated 2021/01/08
 
 https://github.com/MrCorn0-0/hunspell_ja_JP/
 
+Please indicate the source when using.
 转载请注明出处。
