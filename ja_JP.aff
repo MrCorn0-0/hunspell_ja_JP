@@ -1,6 +1,7 @@
 SET UTF-8
 LANG ja
 FLAG long
+# https://github.com/MrCorn0-0/hunspell_ja_JP/
 
 #拼写变体
 MAP	89
