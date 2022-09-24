@@ -12,6 +12,8 @@ Updated: 2021/01/08
 3. Go to the Dictionary setting in the app, and enable the added morphology. Also add it to your Dict groups if you want.
 4. It should be working now :)
 
+##
+Feel free to drop a comment for questions and communications.
 
 Please indicate the origin when using.
 转载请注明出处。
