@@ -1,7 +1,10 @@
 # hunspell_ja_JP
 Author: Gary
+
 Description: Hunspell morphology dictionary for Japanese used in GoldenDict.
+
 Updated: 2021/01/08
+
 
 ## How to use
 1. Download both ja_JP.aff and ja_JP.dic and save to your designated folder for GoldenDict morphology.
@@ -11,5 +14,7 @@ Updated: 2021/01/08
 
 
 https://github.com/MrCorn0-0/hunspell_ja_JP/
+
 Please indicate the origin when using.
+
 转载请注明出处。
