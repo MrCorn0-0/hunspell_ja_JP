@@ -13,8 +13,7 @@ Updated: 2021/01/08
 4. It should be working now :)
 
 
-https://github.com/MrCorn0-0/hunspell_ja_JP/
-
 Please indicate the origin when using.
-
 转载请注明出处。
+
+https://github.com/MrCorn0-0/hunspell_ja_JP/
