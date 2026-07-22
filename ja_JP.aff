@@ -3,6 +3,89 @@ LANG ja
 FLAG long
 # https://github.com/MrCorn0-0/hunspell_ja_JP/
 
+ICONV 81
+ICONV ｶﾞ ガ
+ICONV ｷﾞ ギ
+ICONV ｸﾞ グ
+ICONV ｹﾞ ゲ
+ICONV ｺﾞ ゴ
+ICONV ｻﾞ ザ
+ICONV ｼﾞ ジ
+ICONV ｽﾞ ズ
+ICONV ｾﾞ ゼ
+ICONV ｿﾞ ゾ
+ICONV ﾀﾞ ダ
+ICONV ﾁﾞ ヂ
+ICONV ﾂﾞ ヅ
+ICONV ﾃﾞ デ
+ICONV ﾄﾞ ド
+ICONV ﾊﾞ バ
+ICONV ﾋﾞ ビ
+ICONV ﾌﾞ ブ
+ICONV ﾍﾞ ベ
+ICONV ﾎﾞ ボ
+ICONV ﾊﾟ パ
+ICONV ﾋﾟ ピ
+ICONV ﾌﾟ プ
+ICONV ﾍﾟ ペ
+ICONV ﾎﾟ ポ
+ICONV ｱ ア
+ICONV ｲ イ
+ICONV ｳ ウ
+ICONV ｴ エ
+ICONV ｵ オ
+ICONV ｶ カ
+ICONV ｷ キ
+ICONV ｸ ク
+ICONV ｹ ケ
+ICONV ｺ コ
+ICONV ｻ サ
+ICONV ｼ シ
+ICONV ｽ ス
+ICONV ｾ セ
+ICONV ｿ ソ
+ICONV ﾀ タ
+ICONV ﾁ チ
+ICONV ﾂ ツ
+ICONV ﾃ テ
+ICONV ﾄ ト
+ICONV ﾅ ナ
+ICONV ﾆ ニ
+ICONV ﾇ ヌ
+ICONV ﾈ ネ
+ICONV ﾉ ノ
+ICONV ﾊ ハ
+ICONV ﾋ ヒ
+ICONV ﾌ フ
+ICONV ﾍ ヘ
+ICONV ﾎ ホ
+ICONV ﾏ マ
+ICONV ﾐ ミ
+ICONV ﾑ ム
+ICONV ﾒ メ
+ICONV ﾓ モ
+ICONV ﾔ ヤ
+ICONV ﾕ ユ
+ICONV ﾖ ヨ
+ICONV ﾗ ラ
+ICONV ﾘ リ
+ICONV ﾙ ル
+ICONV ﾚ レ
+ICONV ﾛ ロ
+ICONV ﾜ ワ
+ICONV ｦ ヲ
+ICONV ﾝ ン
+ICONV ｧ ァ
+ICONV ｨ ィ
+ICONV ｩ ゥ
+ICONV ｪ ェ
+ICONV ｫ ォ
+ICONV ｯ ッ
+ICONV ｬ ャ
+ICONV ｭ ュ
+ICONV ｮ ョ
+ICONV ｰ ー
+
 #拼写变体
 MAP	89
 MAP	あア
