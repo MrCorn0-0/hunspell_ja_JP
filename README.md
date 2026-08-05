@@ -3,7 +3,9 @@ Author: Gary
 
 Description: Hunspell morphology dictionary for Japanese used in GoldenDict.
 
-Updated: 2021/01/08
+In addition to de-inflection, this Hunspell morphological dictionary now also supports restoring many mazegaki (mixed kanji-kana) entries to their kanji forms. For example, querying 「着ぐるみ」 can display the entry for 「着包み」, and querying 「思いつき」 can display the entry for 「思い付く」.
+
+Updated: 2026/08/04
 
 
 ## How to use
