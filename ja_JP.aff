@@ -497,8 +497,8 @@ SFX	XO	い	かろ/Yo	い
 
 #形容詞文く
 SFX	XA	Y	2	
-SFX	XA	し	く/BaTe	し
-SFX	XA	い	く/BaTe	い
+SFX	XA	し	く/BaTeTo	し
+SFX	XA	い	く/BaTeTo	い
 SFX	Xa	Y	2	
 SFX	Xa	し	から/f3	し
 SFX	Xa	い	から/f3	い
@@ -535,8 +535,8 @@ SFX	dm	0	ども	.
 
 #形容詞文しく
 SFX	xA	Y	2	
-SFX	xA	0	く/BaTe	[しじ]
-SFX	xA	い	く/BaTe	[しじ]い
+SFX	xA	0	く/BaTeTo	[しじ]
+SFX	xA	い	く/BaTeTo	[しじ]い
 SFX	xa	Y	2	
 SFX	xa	0	から/f3	[しじ]
 SFX	xa	い	から/f3	[しじ]い
@@ -562,7 +562,7 @@ SFX	SA	い	さ	い
 SFX	SG	Y	1	
 SFX	SG	い	すぎ/RUTeTaTrTmf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	い
 SFX	SO	Y	1
-SFX	SO	い	そう	.
+SFX	SO	い	そう/sgsa	.
 SFX	MI	Y	1	
 SFX	MI	い	み	い
 SFX	GE	Y	1	
@@ -576,10 +576,25 @@ SFX	sa	0	さ	.
 SFX	sg	Y	1	
 SFX	sg	0	すぎ/RUTeTaTrTmf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	.
 SFX	so	Y	1
-SFX	so	0	そう	.
+SFX	so	0	そう/sgsa	.
 SFX	ge	Y	1	
 SFX	ge	0	げ	.
 SFX	mi	Y	1	
 SFX	mi	0	み	.
 SFX	gr	Y	1	
 SFX	gr	0	がる/5A5I5T5E5OBDUYUBub	.
+
+#よい・ない系専用
+SFX YN Y 12
+SFX	YN	い	さげ	い
+SFX	YN	い	さ	い
+SFX	YN	い	すぎ/RUTeTaTrTmf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	よい
+SFX	YN	い	すぎ/RUTeTaTrTmf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	良い
+SFX	YN	い	すぎ/RUTeTaTrTmf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	好い
+SFX	YN	い	さすぎ/RUTeTaTrTmf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	ない
+SFX	YN	い	さすぎ/RUTeTaTrTmf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	無い
+SFX	YN	い	さそう/sgsa	.
+SFX	YN	い	く/f1f5f6TeTmToDeDm	い
+SFX	YN	い	かっ/TaTr	い
+SFX	YN	い	けれ/Ba	い
+SFX	YN	い	かろ/Yo	い
