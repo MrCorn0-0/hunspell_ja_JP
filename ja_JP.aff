@@ -264,7 +264,7 @@ SFX	5I	る	り/m0TiSuSg	る
 SFX	5I	う	い/m0TiSuSg	う
 SFX	5I	り	り/m0TiSuSg	り
 
-SFX	m0	Y	11	
+SFX	m0	Y	12	
 SFX	m0	0	ます	.
 SFX	m0	0	まする	.
 SFX	m0	0	ませ	.
@@ -272,6 +272,7 @@ SFX	m0	0	まし	.
 SFX	m0	0	ません	.
 SFX	m0	0	まして	.
 SFX	m0	0	ました	.
+SFX	m0	0	ましたら	.
 SFX	m0	0	ますれ	.
 SFX	m0	0	ますれば	.
 SFX	m0	0	ましょう	.
@@ -290,9 +291,17 @@ SFX	Su	Y	3
 SFX	Su	0	そう	.
 SFX	Su	0	ながら	.
 SFX	Su	0	つつ	.
-SFX	Sg	Y	2	
+SFX	Sg	Y	10	
 SFX	Sg	0	すぎ	.
 SFX	Sg	0	すぎる	.
+SFX	Sg	0	すぎて	.
+SFX	Sg	0	すぎた	.
+SFX	Sg	0	すぎない	.
+SFX	Sg	0	すぎなかった	.
+SFX	Sg	0	すぎます	.
+SFX	Sg	0	すぎません	.
+SFX	Sg	0	すぎました	.
+SFX	Sg	0	すぎませんでした	.
 
 #五段連用形音便
 SFX	5T	Y	10	
@@ -418,9 +427,9 @@ SFX	KN	む	め/RUTeTaf1f2m0TiSuSg1E	む
 SFX	KN	る	れ/RUTeTaf1f2m0TiSuSg1E	る
 SFX	KN	う	え/RUTeTaf1f2m0TiSuSg1E	う
 
-#一段動詞の可能動詞（ら抜き言葉）
-SFX	Kn	Y	1	
-SFX	Kn	る	れ/RUTeTaf1f2m0TiSuSg1E	る
+#本来应该是 一段動詞の可能動詞（ら抜き言葉），但是跟上面KN重合了……
+#SFX	Kn	Y	1	
+#SFX	Kn	る	れ/RUTeTaf1f2m0TiSuSg1E	る
 
 #被動動詞
 SFX	BD	Y	9	
