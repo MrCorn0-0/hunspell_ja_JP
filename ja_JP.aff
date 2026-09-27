@@ -399,14 +399,14 @@ SFX	1K	Y	1
 SFX	1K	る	0/TeTaTcf1f2m0TiSuSg1E	る
 
 #一段假定命令推量
-SFX	1E	Y	1	
+SFX	1E	Y	5	
 SFX	1E	0	れ	.
 SFX	1E	0	れば	.
 SFX	1E	0	ろ	.
 SFX	1E	0	よ	.
 SFX	1E	0	よう	.
 
-#可能動詞
+#五段動詞の可能動詞
 SFX	KN	Y	9	
 SFX	KN	く	け/RUTeTaf1f2m0TiSuSg1E	く
 SFX	KN	ぐ	げ/RUTeTaf1f2m0TiSuSg1E	ぐ
@@ -418,6 +418,7 @@ SFX	KN	む	め/RUTeTaf1f2m0TiSuSg1E	む
 SFX	KN	る	れ/RUTeTaf1f2m0TiSuSg1E	る
 SFX	KN	う	え/RUTeTaf1f2m0TiSuSg1E	う
 
+#一段動詞の可能動詞（ら抜き言葉）
 SFX	Kn	Y	1	
 SFX	Kn	る	れ/RUTeTaf1f2m0TiSuSg1E	る
 
