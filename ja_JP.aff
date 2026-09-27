@@ -228,123 +228,132 @@ MAP	(ゟ)(ヿ)
 
 #五段未然形
 SFX	5A	Y	10		
-SFX	5A	く	か/f1f2f3f4f5f6	く	
-SFX	5A	ぐ	が/f1f2f3f4f5f6	ぐ
-SFX	5A	す	さ/f1f2f3f4f5f6	す	
-SFX	5A	つ	た/f1f2f3f4f5f6	つ
-SFX	5A	ぬ	な/f1f2f3f4f5f6	ぬ	
-SFX	5A	ぶ	ば/f1f2f3f4f5f6	ぶ
-SFX	5A	む	ま/f1f2f3f4f5f6	む	
-SFX	5A	る	ら/f1f2f3f4f5f6	る
-SFX	5A	う	わ/f1f2f3f4f5f6	う
-SFX	5A	り	ら/f1f2f3f4f5f6Yo	り			
+SFX	5A	く	か/f1f2	く	
+SFX	5A	ぐ	が/f1f2	ぐ
+SFX	5A	す	さ/f1f2	す	
+SFX	5A	つ	た/f1f2	つ
+SFX	5A	ぬ	な/f1f2	ぬ	
+SFX	5A	ぶ	ば/f1f2	ぶ
+SFX	5A	む	ま/f1f2	む	
+SFX	5A	る	ら/f1f2	る
+SFX	5A	う	わ/f1f2	う
+SFX	5A	り	ら/f1f2Yo	り			
 
-SFX	f1	Y	1	
+SFX	f1	Y	5	
 SFX	f1	0	ない	.
-SFX	f2	Y	1	
+SFX	f1	0	なく	.
+SFX	f1	0	なくちゃ	.
+SFX	f1	0	なきゃ	.
+SFX	f1	0	なかった	.
+SFX	f2	Y	4	
 SFX	f2	0	ぬ	.
-SFX	f3	Y	2	
-SFX	f3	0	ず	.
-SFX	f3	0	ざる	.
-SFX	f4	Y	1	
-SFX	f4	0	ん	.
-SFX	f5	Y	1	
-SFX	f5	0	なく	.
-SFX	f6	Y	1	
-SFX	f6	0	なかった	.
+SFX	f2	0	ず	.
+SFX	f2	0	ざる	.
+SFX	f2	0	ん	.
 
 #五段連用形
 SFX	5I	Y	10	
-SFX	5I	く	き/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	く
-SFX	5I	ぐ	ぎ/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	ぐ
-SFX	5I	す	し/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	す
-SFX	5I	つ	ち/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	つ
-SFX	5I	ぬ	に/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	ぬ
-SFX	5I	ぶ	び/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	ぶ
-SFX	5I	む	み/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	む
-SFX	5I	る	り/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	る
-SFX	5I	う	い/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	う
-SFX	5I	り	り/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	り
+SFX	5I	く	き/m0TiSuSg	く
+SFX	5I	ぐ	ぎ/m0TiSuSg	ぐ
+SFX	5I	す	し/m0TiSuSg	す
+SFX	5I	つ	ち/m0TiSuSg	つ
+SFX	5I	ぬ	に/m0TiSuSg	ぬ
+SFX	5I	ぶ	び/m0TiSuSg	ぶ
+SFX	5I	む	み/m0TiSuSg	む
+SFX	5I	る	り/m0TiSuSg	る
+SFX	5I	う	い/m0TiSuSg	う
+SFX	5I	り	り/m0TiSuSg	り
 
-SFX	m0	Y	1	
+SFX	m0	Y	11	
 SFX	m0	0	ます	.
-SFX	m1	Y	1	
-SFX	m1	0	ませ	.
-SFX	m2	Y	1	
-SFX	m2	0	まし	.
-SFX	m3	Y	1	
-SFX	m3	0	ません	.
-SFX	m4	Y	1	
-SFX	m4	0	まして	.
-SFX	m5	Y	1	
-SFX	m5	0	ました	.
-SFX	m6	Y	1	
-SFX	m6	0	ますれ	.
-SFX	m7	Y	1	
-SFX	m7	0	ましょう	.
+SFX	m0	0	まする	.
+SFX	m0	0	ませ	.
+SFX	m0	0	まし	.
+SFX	m0	0	ません	.
+SFX	m0	0	まして	.
+SFX	m0	0	ました	.
+SFX	m0	0	ますれ	.
+SFX	m0	0	ますれば	.
+SFX	m0	0	ましょう	.
+SFX	m0	0	ましょ	.
 
-SFX	Ti	Y	1	
+SFX	Ti	Y	7	
 SFX	Ti	0	たい	.
-SFX	TI	Y	1	
-SFX	TI	0	たく	.
-SFX	ti	Y	1	
-SFX	ti	0	たかった	.
+SFX	Ti	0	たかった	.
+SFX	Ti	0	たく	.
+SFX	Ti	0	たくない	.
+SFX	Ti	0	たくなかった	.
+SFX	Ti	0	たし	.
+SFX	Ti	0	たき	.
 
-SFX	Su	Y	1	
+SFX	Su	Y	3	
 SFX	Su	0	そう	.
-SFX	Sg	Y	1	
+SFX	Su	0	ながら	.
+SFX	Su	0	つつ	.
+SFX	Sg	Y	2	
 SFX	Sg	0	すぎ	.
-SFX	Sr	Y	1	
-SFX	Sr	0	すぎる	.
-SFX	Ng	Y	1	
-SFX	Ng	0	ながら	.
-SFX	Qq	Y	1	
-SFX	Qq	0	つつ	.
+SFX	Sg	0	すぎる	.
 
 #五段連用形音便
 SFX	5T	Y	10	
-SFX	5T	く	い/TeTaTrTmTl	[^行]く
-SFX	5T	く	っ/TeTaTrTmTl	行く
-SFX	5T	ぐ	い/DeDaDrDmDl	ぐ
-SFX	5T	す	し/TeTaTrTmTl	す
-SFX	5T	つ	っ/TeTaTrTmTl	つ
-SFX	5T	ぬ	ん/TeTaTrTmTl	ぬ
-SFX	5T	ぶ	ん/TeTaTrTmTl	ぶ
-SFX	5T	む	ん/TeTaTrTmTl	む
-SFX	5T	る	っ/TeTaTrTmTl	る
-SFX	5T	う	っ/TeTaTrTmTl	う
+SFX	5T	く	い/TeTaTc	[^行]く
+SFX	5T	く	っ/TeTaTc	行く
+SFX	5T	ぐ	い/DeDaDc	ぐ
+SFX	5T	す	し/TeTaTc	す
+SFX	5T	つ	っ/TeTaTc	つ
+SFX	5T	ぬ	ん/TeTaTc	ぬ
+SFX	5T	ぶ	ん/TeTaTc	ぶ
+SFX	5T	む	ん/TeTaTc	む
+SFX	5T	る	っ/TeTaTc	る
+SFX	5T	う	っ/TeTaTc	う
 
-SFX	Te	Y	3	
+SFX	Te	Y	6	
 SFX	Te	0	て	[っいしく]
 SFX	Te	0	で	ん
 SFX	Te	0	て	.
-SFX	Tm	Y	3	
-SFX	Tm	0	ても	[っいしく]
-SFX	Tm	0	でも	ん
-SFX	Tm	0	ても	.
-SFX	Ta	Y	3	
+SFX	Te	0	ても	[っいしく]
+SFX	Te	0	でも	ん
+SFX	Te	0	ても	.
+SFX	Ta	Y	9	
 SFX	Ta	0	た	[っいし]
 SFX	Ta	0	だ	ん
 SFX	Ta	0	た	.
-SFX	Tr	Y	3	
-SFX	Tr	0	たり	[っいし]
-SFX	Tr	0	だり	ん
-SFX	Tr	0	たり	.
-SFX	Tl	Y	3
-SFX	Tl	0	たら	[っいし]
-SFX	Tl	0	だら	ん
-SFX	Tl	0	たら	.
-SFX	Dl	Y	1
-SFX	Dl	0	だら	.
+SFX	Ta	0	たり	[っいし]
+SFX	Ta	0	だり	ん
+SFX	Ta	0	たり	.
+SFX	Ta	0	たら	[っいし]
+SFX	Ta	0	だら	ん
+SFX	Ta	0	たら	.
+SFX	Tc	Y	15
+SFX	Tc	0	ちゃ	[っいし]
+SFX	Tc	0	じゃ	ん
+SFX	Tc	0	ちゃ	.
+SFX	Tc	0	ちゃう/5A5I5T5E5OKN	[っいし]
+SFX	Tc	0	じゃう/5A5I5T5E5OKN	ん
+SFX	Tc	0	ちゃう/5A5I5T5E5OKN	.
+SFX	Tc	0	ちまう/5A5I5T5E5OKN	[っいし]
+SFX	Tc	0	じまう/5A5I5T5E5OKN	ん
+SFX	Tc	0	ちまう/5A5I5T5E5OKN	.
+SFX	Tc	0	とく/5A5I5T5E5OKN	[っいし]
+SFX	Tc	0	どく/5A5I5T5E5OKN	ん
+SFX	Tc	0	とく/5A5I5T5E5OKN	.
+SFX	Tc	0	とる/5A5I5T5E5OKN	[っいし]
+SFX	Tc	0	どる/5A5I5T5E5OKN	ん
+SFX	Tc	0	とる/5A5I5T5E5OKN	.
 
-SFX	De	Y	1	
+SFX	De	Y	2	
 SFX	De	0	で	.
-SFX	Da	Y	1	
+SFX	De	0	でも	.
+SFX	Da	Y	3	
 SFX	Da	0	だ	.
-SFX	Dm	Y	1	
-SFX	Dm	0	でも	.
-SFX	Dr	Y	1	
-SFX	Dr	0	だり	.
+SFX	Da	0	だり	.
+SFX	Da	0	だら	.
+SFX	Dc	Y	5
+SFX	Dc	0	じゃ	.
+SFX	Dc	0	じゃう/5A5I5T5E5OKN	.
+SFX	Dc	0	じまう/5A5I5T5E5OKN	.
+SFX	Dc	0	どく/5A5I5T5E5OKN	.
+SFX	Dc	0	どる/5A5I5T5E5OKN	.
 
 
 #五段假定命令
@@ -378,108 +387,106 @@ SFX	5O	う	お/Yo	う
 SFX	Yo	Y	1	
 SFX	Yo	0	う	.
 
-#一段活用形變回原形
+#RU tag 同时兼任两种毫无关系的功能：
+#一段动词的连用形變回原形
+#ラ変動詞 終止形/連用形(り) → 連体形(る)
 SFX	RU	Y	2	
 SFX	RU	0	る	[^り]
 SFX	RU	り	る	り
 
 #一段活用態
 SFX	1K	Y	1	
-SFX	1K	る	0/TeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
+SFX	1K	る	0/TeTaTcf1f2m0TiSuSg1E	る
 
 #一段假定命令推量
 SFX	1E	Y	1	
 SFX	1E	0	れ	.
-SFX	ba	Y	1	
-SFX	ba	0	れば	.
-SFX	1M	Y	1	
-SFX	1M	0	ろ	.
-SFX	1m	Y	1	
-SFX	1m	0	よ	.
-SFX	yo	Y	1	
-SFX	yo	0	よう	.
+SFX	1E	0	れば	.
+SFX	1E	0	ろ	.
+SFX	1E	0	よ	.
+SFX	1E	0	よう	.
 
 #可能動詞
 SFX	KN	Y	9	
-SFX	KN	く	け/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	く
-SFX	KN	ぐ	げ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぐ
-SFX	KN	す	せ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	す
-SFX	KN	つ	て/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	つ
-SFX	KN	ぬ	ね/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぬ
-SFX	KN	ぶ	べ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぶ
-SFX	KN	む	め/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	む
-SFX	KN	る	れ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
-SFX	KN	う	え/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	う
+SFX	KN	く	け/RUTeTaf1f2m0TiSuSg1E	く
+SFX	KN	ぐ	げ/RUTeTaf1f2m0TiSuSg1E	ぐ
+SFX	KN	す	せ/RUTeTaf1f2m0TiSuSg1E	す
+SFX	KN	つ	て/RUTeTaf1f2m0TiSuSg1E	つ
+SFX	KN	ぬ	ね/RUTeTaf1f2m0TiSuSg1E	ぬ
+SFX	KN	ぶ	べ/RUTeTaf1f2m0TiSuSg1E	ぶ
+SFX	KN	む	め/RUTeTaf1f2m0TiSuSg1E	む
+SFX	KN	る	れ/RUTeTaf1f2m0TiSuSg1E	る
+SFX	KN	う	え/RUTeTaf1f2m0TiSuSg1E	う
 
 SFX	Kn	Y	1	
-SFX	Kn	る	れ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
+SFX	Kn	る	れ/RUTeTaf1f2m0TiSuSg1E	る
 
 #被動動詞
 SFX	BD	Y	9	
-SFX	BD	く	かれ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	く
-SFX	BD	ぐ	がれ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぐ
-SFX	BD	す	され/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	す
-SFX	BD	つ	たれ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	つ
-SFX	BD	ぬ	なれ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぬ
-SFX	BD	ぶ	ばれ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぶ
-SFX	BD	む	まれ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	む
-SFX	BD	る	られ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
-SFX	BD	う	われ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	う
+SFX	BD	く	かれ/RUTeTaTcf1f2m0TiSuSg1E	く
+SFX	BD	ぐ	がれ/RUTeTaTcf1f2m0TiSuSg1E	ぐ
+SFX	BD	す	され/RUTeTaTcf1f2m0TiSuSg1E	す
+SFX	BD	つ	たれ/RUTeTaTcf1f2m0TiSuSg1E	つ
+SFX	BD	ぬ	なれ/RUTeTaTcf1f2m0TiSuSg1E	ぬ
+SFX	BD	ぶ	ばれ/RUTeTaTcf1f2m0TiSuSg1E	ぶ
+SFX	BD	む	まれ/RUTeTaTcf1f2m0TiSuSg1E	む
+SFX	BD	る	られ/RUTeTaTcf1f2m0TiSuSg1E	る
+SFX	BD	う	われ/RUTeTaTcf1f2m0TiSuSg1E	う
 
 #使役動詞
 SFX	UY	Y	9	
-SFX	UY	く	かせ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	く
-SFX	UY	ぐ	がせ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぐ
-SFX	UY	す	させ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	す
-SFX	UY	つ	たせ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	つ
-SFX	UY	ぬ	なせ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぬ
-SFX	UY	ぶ	ばせ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぶ
-SFX	UY	む	ませ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	む
-SFX	UY	る	らせ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
-SFX	UY	う	わせ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	う
+SFX	UY	く	かせ/RUTeTaTcf1f2m0TiSuSg1E	く
+SFX	UY	ぐ	がせ/RUTeTaTcf1f2m0TiSuSg1E	ぐ
+SFX	UY	す	させ/RUTeTaTcf1f2m0TiSuSg1E	す
+SFX	UY	つ	たせ/RUTeTaTcf1f2m0TiSuSg1E	つ
+SFX	UY	ぬ	なせ/RUTeTaTcf1f2m0TiSuSg1E	ぬ
+SFX	UY	ぶ	ばせ/RUTeTaTcf1f2m0TiSuSg1E	ぶ
+SFX	UY	む	ませ/RUTeTaTcf1f2m0TiSuSg1E	む
+SFX	UY	る	らせ/RUTeTaTcf1f2m0TiSuSg1E	る
+SFX	UY	う	わせ/RUTeTaTcf1f2m0TiSuSg1E	う
 
 SFX	Uy	Y	1	
-SFX	Uy	る	させ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
+SFX	Uy	る	させ/RUTeTaTcf1f2m0TiSuSg1E	る
 
 #使役被動動詞
 SFX	UB	Y	9	
-SFX	UB	く	かせられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	く
-SFX	UB	ぐ	がせられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぐ
-SFX	UB	す	させられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	す
-SFX	UB	つ	たせられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	つ
-SFX	UB	ぬ	なせられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぬ
-SFX	UB	ぶ	ばせられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぶ
-SFX	UB	む	ませられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	む
-SFX	UB	る	らせられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
-SFX	UB	う	わせられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	う
+SFX	UB	く	かせられ/RUTeTaTcf1f2m0TiSuSg1E	く
+SFX	UB	ぐ	がせられ/RUTeTaTcf1f2m0TiSuSg1E	ぐ
+SFX	UB	す	させられ/RUTeTaTcf1f2m0TiSuSg1E	す
+SFX	UB	つ	たせられ/RUTeTaTcf1f2m0TiSuSg1E	つ
+SFX	UB	ぬ	なせられ/RUTeTaTcf1f2m0TiSuSg1E	ぬ
+SFX	UB	ぶ	ばせられ/RUTeTaTcf1f2m0TiSuSg1E	ぶ
+SFX	UB	む	ませられ/RUTeTaTcf1f2m0TiSuSg1E	む
+SFX	UB	る	らせられ/RUTeTaTcf1f2m0TiSuSg1E	る
+SFX	UB	う	わせられ/RUTeTaTcf1f2m0TiSuSg1E	う
 
 SFX	Ub	Y	1	
-SFX	Ub	る	させられ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
+SFX	Ub	る	させられ/RUTeTaTcf1f2m0TiSuSg1E	る
 
 SFX	ub	Y	8	
-SFX	ub	く	かされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	く
-SFX	ub	ぐ	がされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぐ
-SFX	ub	つ	たされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	つ
-SFX	ub	ぬ	なされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぬ
-SFX	ub	ぶ	ばされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	ぶ
-SFX	ub	む	まされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	む
-SFX	ub	る	らされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	る
-SFX	ub	う	わされ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq1Eba1M1myo	う
+SFX	ub	く	かされ/RUTeTaTcf1f2m0TiSuSg1E	く
+SFX	ub	ぐ	がされ/RUTeTaTcf1f2m0TiSuSg1E	ぐ
+SFX	ub	つ	たされ/RUTeTaTcf1f2m0TiSuSg1E	つ
+SFX	ub	ぬ	なされ/RUTeTaTcf1f2m0TiSuSg1E	ぬ
+SFX	ub	ぶ	ばされ/RUTeTaTcf1f2m0TiSuSg1E	ぶ
+SFX	ub	む	まされ/RUTeTaTcf1f2m0TiSuSg1E	む
+SFX	ub	る	らされ/RUTeTaTcf1f2m0TiSuSg1E	る
+SFX	ub	う	わされ/RUTeTaTcf1f2m0TiSuSg1E	う
 
 #變格動詞
 SFX	3A	Y	4	
-SFX	3A	くる	こ/f1f2f3f4f5f6yo	くる
-SFX	3A	来る	来/f1f2f3f4f5f6yo	来る
-SFX	3A	する	し/f1f5f6yoTiTItiSuSgSrNgm0m1m2m3m4m5m6m7TeTaTrTmTl	する
-SFX	3A	ずる	じ/f1f3f5f6yo	ずる
+SFX	3A	くる	こ/f1f2yo	くる
+SFX	3A	来る	来/f1f2yo	来る
+SFX	3A	する	し/f1yoTiSuSgm0TeTaTc	する
+SFX	3A	ずる	じ/f1f2yo	ずる
 
 SFX	3a	Y	2	
-SFX	3a	する	せ/f2f3f4	する
-SFX	3a	ずる	じ/f3	ずる
+SFX	3a	する	せ/f2	する
+SFX	3a	ずる	じ/f2	ずる
 
 SFX	3I	Y	2	
-SFX	3I	く	き/TeTaTrTmTlm0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	く
-SFX	3I	来	来/TeTaTrTmTlm0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	来
+SFX	3I	く	き/TeTaTcm0TiSuSg	く
+SFX	3I	来	来/TeTaTcm0TiSuSg	来
 
 SFX	3E	Y	2	
 SFX	3E	く	くれ/Ba	く
@@ -491,11 +498,11 @@ SFX	3e	来	来い	来
 
 #は行四段動詞
 SFX	4A	Y	2 
-SFX	4A	ふ	は/f1f2f3f4f5f6Yo	ふ
-SFX	4A	う	は/f1f2f3f4f5f6Yo	う
+SFX	4A	ふ	は/f1f2Yo	ふ
+SFX	4A	う	は/f1f2Yo	う
 SFX	4I	Y	2	
-SFX	4I	ふ	ひ/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQqTeTaTrTmTl	ふ
-SFX	4I	う	ひ/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQqTeTaTrTmTl	う
+SFX	4I	ふ	ひ/m0TiSuSgTeTaTc	ふ
+SFX	4I	う	ひ/m0TiSuSgTeTaTc	う
 SFX	4E	Y	2	
 SFX	4E	ふ	へ/Ba	ふ
 SFX	4E	う	へ/Ba	う
@@ -505,29 +512,32 @@ SFX	4U	う	ふ	う
 
 #五段特殊動詞
 SFX	SI	Y	1	
-SFX	SI	る	い/m0m1m2m3m4m5m6m7TiTItiSuSgSrNgQq	る
+SFX	SI	る	い/m0TiSuSg	る
 SFX	SE	Y	1	
 SFX	SE	る	い	る
 
 #形容詞
 SFX	XK	Y	1	
-SFX	XK	い	く/f1f5f6TeTmTlToDeDm	い
+SFX	XK	い	く/f1TeTo	い
 SFX	To	Y	1	
 SFX	To	0	とも	.
 SFX	XQ	Y	1	
-SFX	XQ	い	かっ/TaTrTl	い
-SFX	Xr	Y	1	
+SFX	XQ	い	かっ/Ta	い
+SFX	Xr	Y	3	
 SFX	Xr	い	けれ/Ba	い
-SFX	XO	Y	1	
+SFX	Xr	い	ければ	い
+SFX	Xr	い	けりゃ	い
+SFX	XO	Y	2	
 SFX	XO	い	かろ/Yo	い
+SFX	XO	い	かろう	い
 
 #形容詞文く
 SFX	XA	Y	2	
 SFX	XA	し	く/BaTeTo	し
 SFX	XA	い	く/BaTeTo	い
 SFX	Xa	Y	2	
-SFX	Xa	し	から/f3	し
-SFX	Xa	い	から/f3	い
+SFX	Xa	し	から/f2	し
+SFX	Xa	い	から/f2	い
 SFX	Xi	Y	2	
 SFX	Xi	し	かり/ki	し
 SFX	Xi	い	かり/ki	い
@@ -564,8 +574,8 @@ SFX	xA	Y	2
 SFX	xA	0	く/BaTeTo	[しじ]
 SFX	xA	い	く/BaTeTo	[しじ]い
 SFX	xa	Y	2	
-SFX	xa	0	から/f3	[しじ]
-SFX	xa	い	から/f3	[しじ]い
+SFX	xa	0	から/f2	[しじ]
+SFX	xa	い	から/f2	[しじ]い
 SFX	xi	Y	2	
 SFX	xi	0	かり/ki	[しじ]
 SFX	xi	い	かり/ki	[しじ]い
@@ -586,7 +596,7 @@ SFX	xe	い	かれ	[しじ]い
 SFX	SA	Y	1	
 SFX	SA	い	さ	い
 SFX	SG	Y	1	
-SFX	SG	い	すぎ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	い
+SFX	SG	い	すぎ/RUTeTaTcf1f2m0TiSu1E	い
 SFX	SO	Y	1
 SFX	SO	い	そう/sgsa	.
 SFX	MI	Y	1	
@@ -600,7 +610,7 @@ SFX	GR	い	がる/5A5I5T5E5OBDUYUBub	い
 SFX	sa	Y	1	
 SFX	sa	0	さ	.
 SFX	sg	Y	1	
-SFX	sg	0	すぎ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	.
+SFX	sg	0	すぎ/RUTeTaTcf1f2m0TiSu1E	.
 SFX	so	Y	1
 SFX	so	0	そう/sgsa	.
 SFX	sn	Y	1
@@ -618,13 +628,13 @@ SFX	gr	0	がる/5A5I5T5E5OBDUYUBub	.
 SFX YN Y 12
 SFX	YN	い	さげ	い
 SFX	YN	い	さ	い
-SFX	YN	い	すぎ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	よい
-SFX	YN	い	すぎ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	良い
-SFX	YN	い	すぎ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	好い
-SFX	YN	い	さすぎ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	ない
-SFX	YN	い	さすぎ/RUTeTaTrTmTlf1f2f3f4f5f6m0m1m2m3m4m5m6m7TiTItiSuNgQq1Eba1M1myo	無い
+SFX	YN	い	すぎ/RUTeTaTcf1f2m0TiSu1E	よい
+SFX	YN	い	すぎ/RUTeTaTcf1f2m0TiSu1E	良い
+SFX	YN	い	すぎ/RUTeTaTcf1f2m0TiSu1E	好い
+SFX	YN	い	さすぎ/RUTeTaTcf1f2m0TiSu1E	ない
+SFX	YN	い	さすぎ/RUTeTaTcf1f2m0TiSu1E	無い
 SFX	YN	い	さそう/sgsa	.
-SFX	YN	い	く/f1f5f6TeTmTlToDeDm	い
-SFX	YN	い	かっ/TaTrTl	い
+SFX	YN	い	く/f1TeTo	い
+SFX	YN	い	かっ/Ta	い
 SFX	YN	い	けれ/Ba	い
 SFX	YN	い	かろ/Yo	い
